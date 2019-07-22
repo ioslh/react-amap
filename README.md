@@ -165,4 +165,4 @@ npm start # http://localhost:9001
 
 [MIT License](https://github.com/ElemeFE/react-amap/blob/master/COPYING)
 
-Copyright (c) 2017 ElemeFE
+Copyright (c) 2019 ElemeFE
